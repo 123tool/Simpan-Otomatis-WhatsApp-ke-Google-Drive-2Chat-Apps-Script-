@@ -4,3 +4,4 @@ menyimpan setiap file dari klien 2Chat Anda secara otomatis langsung ke folder G
  https://2chat.co/ 
       
 [Tutorial]([https://www.youtube.com/watch?v=pNo_MG3RVYs")
+[![Tutorial]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=pNo_MG3RVYs) "Tutorial")
