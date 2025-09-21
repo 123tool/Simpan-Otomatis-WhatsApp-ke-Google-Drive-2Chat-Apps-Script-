@@ -3,4 +3,4 @@ menyimpan setiap file dari klien 2Chat Anda secara otomatis langsung ke folder G
 
  https://2chat.co/ 
       
-<iframe src="https://youtu.be/pNo_MG3RVYs?si=xFkbWo68Yi8CXMht></iframe>
+[Tutorial]([https://example.com/my-link](https://www.youtube.com/watch?v=pNo_MG3RVYs) "link title")
