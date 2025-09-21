@@ -3,4 +3,4 @@ menyimpan setiap file dari klien 2Chat Anda secara otomatis langsung ke folder G
 
  https://2chat.co/ 
       
-[Tutorial]([https://example.com/my-link](https://www.youtube.com/watch?v=pNo_MG3RVYs) "link title")
+[Tutorial]([https://www.youtube.com/watch?v=pNo_MG3RVYs")
